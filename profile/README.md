@@ -23,6 +23,7 @@ Every list is regenerated **daily** from live employer career pages — never sc
 | 🇨🇦 Canada | [Canada-New-Grad-Internship-Jobs](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) | [workopia.io/browsejobs/ca](https://workopia.io/browsejobs/ca?utm_source=github&utm_medium=org_profile) |
 | 🇪🇸 Spain | [Spain-Graduate-Internship-Jobs](https://github.com/workopia/Spain-Graduate-Internship-Jobs) | [workopia.io/browsejobs/es](https://workopia.io/browsejobs/es?utm_source=github&utm_medium=org_profile) |
 | 🇳🇱 Netherlands | [Netherlands-Graduate-Jobs](https://github.com/workopia/Netherlands-Graduate-Jobs) | [workopia.io/browsejobs/nl](https://workopia.io/browsejobs/nl?utm_source=github&utm_medium=org_profile) |
+| 🇭🇰 Hong Kong | [Hong-Kong-Graduate-Internship-Jobs](https://github.com/workopia/Hong-Kong-Graduate-Internship-Jobs) | [workopia.io/browsejobs/hk](https://workopia.io/browsejobs/hk?utm_source=github&utm_medium=org_profile) |
 
 🔔 **Watch → Custom → Releases** on any country repo to get a weekly email digest of new roles.
 
