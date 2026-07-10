@@ -19,6 +19,10 @@ Every list is regenerated **daily** from live employer career pages — never sc
 | 🇦🇺 Australia | [Australia-Graduate-Jobs](https://github.com/workopia/Australia-Graduate-Jobs) | [workopia.io/graduates/australia](https://workopia.io/graduates/australia?utm_source=github&utm_medium=org_profile) |
 | 🇸🇬 Singapore | [Singapore-Graduate-Internship-Jobs](https://github.com/workopia/Singapore-Graduate-Internship-Jobs) | [workopia.io/graduates/singapore](https://workopia.io/graduates/singapore?utm_source=github&utm_medium=org_profile) |
 | 🇫🇷 France | [France-Graduate-Apprenticeship-Jobs](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs) | [workopia.io/graduates/france](https://workopia.io/graduates/france?utm_source=github&utm_medium=org_profile) |
+| 🇩🇪 Germany | [Germany-Graduate-Jobs](https://github.com/workopia/Germany-Graduate-Jobs) | [workopia.io/browsejobs/de](https://workopia.io/browsejobs/de?utm_source=github&utm_medium=org_profile) |
+| 🇨🇦 Canada | [Canada-New-Grad-Internship-Jobs](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) | [workopia.io/browsejobs/ca](https://workopia.io/browsejobs/ca?utm_source=github&utm_medium=org_profile) |
+| 🇪🇸 Spain | [Spain-Graduate-Internship-Jobs](https://github.com/workopia/Spain-Graduate-Internship-Jobs) | [workopia.io/browsejobs/es](https://workopia.io/browsejobs/es?utm_source=github&utm_medium=org_profile) |
+| 🇳🇱 Netherlands | [Netherlands-Graduate-Jobs](https://github.com/workopia/Netherlands-Graduate-Jobs) | [workopia.io/browsejobs/nl](https://workopia.io/browsejobs/nl?utm_source=github&utm_medium=org_profile) |
 
 🔔 **Watch → Custom → Releases** on any country repo to get a weekly email digest of new roles.
 
