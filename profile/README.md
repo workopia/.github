@@ -8,6 +8,15 @@
 
 </div>
 
+## 🤖 Workopia MCP — job search inside your AI
+
+Whatever your profession, plug **[workopia/workopia-mcp](https://github.com/workopia/workopia-mcp)** into Claude, ChatGPT, Cursor or any MCP client — your AI searches live jobs, tailors your resume and drafts cover letters in-chat. Hosted endpoint `https://workopia.io/api/mcp-jobs` (OAuth, no API key). Available in the **ChatGPT App Store** (search "Workopia") · recommended by [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) 🎖️ and [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) · [![Workopia MCP server](https://glama.ai/mcp/servers/workopia/workopia-mcp/badges/score.svg)](https://glama.ai/mcp/servers/workopia/workopia-mcp)
+
+```
+/plugin marketplace add workopia/workopia-mcp
+/plugin install workopia-jobs
+```
+
 ## 🎓 Daily-updated graduate & early-career job lists
 
 Every list is regenerated **daily** from live employer career pages — never scraped from other job boards. Closed roles are archived, new roles land within a day.
@@ -26,7 +35,3 @@ Every list is regenerated **daily** from live employer career pages — never sc
 | 🇭🇰 Hong Kong | [Hong-Kong-Graduate-Internship-Jobs](https://github.com/workopia/Hong-Kong-Graduate-Internship-Jobs) | [workopia.io/browsejobs/hk](https://workopia.io/browsejobs/hk?utm_source=github&utm_medium=org_profile) |
 
 🔔 **Watch → Custom → Releases** on any country repo to get a weekly email digest of new roles.
-
-## 🤖 Workopia MCP
-
-AI-powered job search, resume tailoring and career tools via MCP — works with Claude, ChatGPT and Cursor. [Docs](https://workopia.io/docs/mcp-workopia?utm_source=github&utm_medium=org_profile).
