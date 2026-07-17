@@ -2,7 +2,7 @@
 
 # Workopia
 
-**AI-powered job search — 7.3M+ live jobs sourced straight from employer career pages, 94 countries, 2,517 cities.**
+**AI-powered job search — 7.6M+ live jobs sourced straight from employer career pages, 94 countries, 2,517 cities.**
 
 [workopia.io](https://workopia.io/?utm_source=github&utm_medium=org_profile) · [Live global hiring monitor](https://workopia.io/hi/monitor?utm_source=github&utm_medium=org_profile) · [Graduate hub](https://workopia.io/graduates?utm_source=github&utm_medium=org_profile)
 
